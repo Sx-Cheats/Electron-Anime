@@ -2,9 +2,9 @@
 
 ### Voici des Aperçus de l'application
 
-![]()
-![]()
-![]()
+![](https://github.com/Sx-Cheats/Electron-Anime/blob/main/PreviewImg/Capture02.PNG)
+![](https://github.com/Sx-Cheats/Electron-Anime/blob/main/PreviewImg/Capture00.PNG)
+![](https://github.com/Sx-Cheats/Electron-Anime/blob/main/PreviewImg/Capture01.PNG)
 
 ## Comment installer ?
 
